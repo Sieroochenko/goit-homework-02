@@ -14,7 +14,7 @@ body {
 }
 .logo {
   color: var(--iris, #4D5AE5);
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -24,11 +24,11 @@ text-transform: uppercase;
 }
 .logo-studio {
   color: var(--navyblue, #2E2F42);
-  font-family: "Raleway", sans-serif
+  font-family: "Raleway", sans-serif;
 }
 .logo-studio-footer {
   color: var(--cloud, #F4F4FD);
-  font-family: "Raleway", sans-serif
+  font-family: "Raleway", sans-serif;
 }
 .menu-link {
   color: var(--navyblue, #2e2f42);
